@@ -18,5 +18,7 @@ It allows hiding a secret message inside an image and retriving it back without 
     The least significant bits of image pixels are modified to store the secret message data.
 
     ## Technologies:-
-    - C Programming 
+    - C Programming
+   
+      
     
